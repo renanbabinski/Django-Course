@@ -1,2 +1,4 @@
 
 *.pyc
+*.pyc
+todo/db.sqlite3
